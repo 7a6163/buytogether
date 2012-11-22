@@ -36,3 +36,9 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# To use bootstrap
+gem 'bootstrap-sass', '~> 2.2.1.1'
+
+# To use simpel form
+gem 'simple_form'
